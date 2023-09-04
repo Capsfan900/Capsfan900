@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Capsfan900/Capsfan900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on a Chrome Bookmark search engine / Odin Project ...
 - 🌱 I’m currently learning  Web Development /UI Design...
 - 👯 I’m looking to collaborate on All types of projects  ...
@@ -14,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: One fun fact about the creator of JavaScript, Brendan Eich, is that he developed
 the language in a very short period of time. JavaScript was created in just 10 days while Brendan 
-Eich was working at Netscape Communications Corporation in 1995. ...
--->
+Eich was working at Netscape Communications Corporation in 1995. 
