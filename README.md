@@ -1,8 +1,12 @@
-I like to tinker , suspect vibe coder.
+I'm Tyler,
 
-I am just here to try and make tools for myself and my job if anyone would like to help me learn i am open to feedback.
+I build tools for myself and for my job. Mostly self-taught, still figuring a lot of it out — feedback is welcome.
 
-I am trying to make a open protocol / platform that allows for AI agent configuration templating , skills and open dyanicworkflows repository, and an harness agnostics AI monitoring/visualing system called Agentopia.
+Agentopia
 
+An open protocol and platform for working with AI agents. Four pieces:
 
-
+Templating for agent configuration
+Skills
+A shared, open repository of dynamic workflows
+Harness-agnostic monitoring and visualization
